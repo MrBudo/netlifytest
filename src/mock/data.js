@@ -24,7 +24,7 @@ export const aboutData = {
     'Through my three semster in the university I have been very active in taking part in different projects. Which gave me hands on experience in Web development and helped in building my skills. I am well versed with React, Javascript, html, css and node.js. ',
   paragraphThree:
     'I also have passion for graphic and motion design which has always helped me to make visually engaging website',
-  resume: 'https://drive.google.com/file/d/1PsczHyTD35dZ58FTpdHUdIjey7IN5nX8/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1WzH_-_9pJeWuZdFGTsKdrptoktLUyk-e/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -36,7 +36,7 @@ export const projectsData = [
     info:
       'The National Arboretum Canberra (NAC) is the home to over 44,000 trees growing in 104 forests across 250 hectares.The manual process of soil mointoring was expensive, time consuming (over amonth to cover the entire area) and inefficient, resulting in significant tree loss and water management costs.',
     info2:
-      'An IoT (Internet of Things) platform is designed for real time soil moisture and temperature monitoring. Its a Smartphone App to access real-time cloud based data. Data uploaded real-time to the cloud every six hourly.',
+      'An IoT (Internet of Things) platform is designed for real time soil moisture and temperature monitoring. Its a Smartphone App to access real-time cloud based data. Data uploaded real-time to the cloud every six hour.',
     url: 'https://cbrdata.com',
     repo: '', // if no repo, the button will not show up
   },
@@ -45,7 +45,7 @@ export const projectsData = [
     img: 'Project2.jpg',
     title: 'QPRC SMART CITY',
     info:
-      'Worked in a team to Install 16 sensors throughout queanbeyan, we used React frame work for front end. For backend we used node.js and host it using AWS cloud server ',
+      'Worked in a team to Install 16 sensors throughout Queanbeyan, we used React frame work for front end. For backend we used node.js and hosted it using AWS cloud server ',
     info2:
       'The Aim of the government funded project was to collect data through out the city and visualize it in a really easy to understandable way',
     url: '',
@@ -56,7 +56,7 @@ export const projectsData = [
     img: 'Project3.jpg',
     title: 'SMART CAMPUS UC-IOT',
     info:
-      'The Idea is to put up multiple sensor throughout the Campus, collect the data and put it up on the website which can be accessible by anyone in the university.',
+      'The Idea is to put up multiple sensors throughout the Campus, collect the data and put it up on the website which can be accessible by anyone in the university.',
     info2:
       'We used React for the front end. Backend was done google in cloud firestore. The sensors including Particle modulator, Co2 sensor and GPS are planned to be added. ',
     url: 'http://uc-io.herokuapp.com/',
