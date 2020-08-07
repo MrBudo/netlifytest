@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'Hi! I am doing Master of Software Engineering in University of Canberra and I am in my last Semester Now',
   paragraphTwo:
-    'Through my three semster in the university I have been very active in taking part in different projects. Which gave me hands on experience in Web development and helped in building my skills. I am well versed with React, Javascript, html, css and node.js. ',
+    'Through my three semester in the university I have been very active in taking part in different projects. Which gave me hands on experience in Web development and helped in building my skills. I am well versed with React, Javascript, html, css and node.js. ',
   paragraphThree:
     'I also have passion for graphic and motion design which has always helped me to make visually engaging website',
   resume: 'https://drive.google.com/file/d/1WzH_-_9pJeWuZdFGTsKdrptoktLUyk-e/view?usp=sharing', // if no resume, the button will not show up
